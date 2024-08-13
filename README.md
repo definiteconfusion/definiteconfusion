@@ -1,4 +1,4 @@
-![image](./GithubBanner.png)
+[![image](./GithubBanner.png)](https://github.com/definiteconfusion/notion-components)
 
 # About Me 👨
 I am a passionate software engineer with expertise in Python and web development. I love building scalable and efficient applications that solve real-world problems... sorta
