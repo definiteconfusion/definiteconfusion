@@ -1,4 +1,5 @@
-[![image](./GithubBanner.png)](https://github.com/definiteconfusion/notion-components)
+[![image](./GithubBannerTop.png)](https://github.com/definiteconfusion/notion-components)
+[![image](./GithubBannerBottom.png)](https://github.com/definiteconfusion/brics)
 
 # About Me 👨
 I am a passionate software engineer with expertise in Python and web development. I love building scalable and efficient applications that solve real-world problems... sorta
